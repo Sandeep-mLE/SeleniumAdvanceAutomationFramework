@@ -1,6 +1,5 @@
 package utils;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -17,23 +16,20 @@ public class DriverFactory {
 
             String browser = ConfigReader.getProperty("browser");
 
-            switch (browser.toLowerCase()) {
+            switch (browser.toLowerCase().trim()) {
 
                 case "firefox":
-                    WebDriverManager.firefoxdriver().setup();
                     driver.set(new FirefoxDriver());
                     break;
 
                 case "edge":
-                    WebDriverManager.edgedriver().setup();
                     driver.set(new EdgeDriver());
                     break;
 
                 default:
-                    WebDriverManager.chromedriver().setup();
-
                     ChromeOptions options = new ChromeOptions();
-                    options.addArguments("--headless=new");
+
+                   // options.addArguments("--headless=new");
                     options.addArguments("--window-size=1920,1080");
                     options.addArguments("--disable-notifications");
                     options.addArguments("--incognito");

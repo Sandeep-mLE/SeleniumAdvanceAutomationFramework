@@ -343,3 +343,40 @@
 2026-11-06 10:41:56 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
 2026-11-06 10:41:56 INFO  utils.LoggerUtil - Closing browser
 2026-11-06 10:41:56 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:40:54 INFO  utils.LoggerUtil - ========== Test Started ==========
+2026-11-06 14:41:09 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:41:09 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:41:09 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:41:48 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:41:48 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:41:58 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:41:58 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:41:58 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:41:58 INFO  utils.LoggerUtil - ========== Test Started ==========
+2026-11-06 14:41:58 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:41:58 INFO  utils.LoggerUtil - ========== Test Started ==========
+2026-11-06 14:42:12 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:42:12 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:43:49 INFO  utils.LoggerUtil - ========== Test Started ==========
+2026-11-06 14:43:58 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:43:58 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:43:59 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:43:59 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:43:59 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:44:00 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:44:00 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:44:00 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:44:00 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:44:01 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:44:01 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:44:01 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:44:01 INFO  utils.LoggerUtil - ========== Test Started ==========
+2026-11-06 14:44:04 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:44:05 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:44:05 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:44:05 INFO  utils.LoggerUtil - ========== Test Finished ==========
+2026-11-06 14:44:05 INFO  utils.LoggerUtil - ========== Test Started ==========
+2026-11-06 14:44:07 INFO  utils.LoggerUtil - Browser launched successfully
+2026-11-06 14:44:07 INFO  utils.LoggerUtil - Navigated to: https://www.saucedemo.com/
+2026-11-06 14:44:07 INFO  utils.LoggerUtil - Closing browser
+2026-11-06 14:44:07 INFO  utils.LoggerUtil - ========== Test Finished ==========
